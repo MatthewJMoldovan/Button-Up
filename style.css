@@ -1,0 +1,37 @@
+
+
+.plus {
+    background-color: rgb(2,208,178);
+    color: white;
+    border: 0px;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+}
+
+.search {
+    background-color: white;
+    color:rgb(24, 158, 160) ;
+    border: 1.5px solid rgb(24, 158, 160);
+    border-radius: 50px;
+    width: 100px;
+    font-size: 12px;
+}
+
+.createAccount{
+    background-color: rgb(43,120,228);
+    color: white;
+    width: 100pt;
+    height: 17pt;
+    font-size: 9pt;
+    box-shadow: 3px 3px  black;
+}
+
+div{
+    margin-top: 7px;
+    margin-left: 40px ;
+}
+
+div>.search{
+    margin-top: 30px;
+}
